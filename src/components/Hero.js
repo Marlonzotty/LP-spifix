@@ -28,7 +28,7 @@ const Hero = () => {
         <Grid container spacing={4} alignItems="center">
           <Grid item xs={12} md={6}>
             <Typography variant={isMobile ? 'h3' : 'h1'} component="h1" gutterBottom sx={{ fontWeight: 'bold', mb: 4, color: '#F46A35' }}>
-              Spifex
+              Spifix
             </Typography>
             <Typography variant={isMobile ? 'h5' : 'h4'} component="p" gutterBottom sx={{ mb: 6 }}>
               Integração e Centralização<br />
